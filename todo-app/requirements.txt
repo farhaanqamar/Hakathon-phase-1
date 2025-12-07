@@ -1,0 +1,5 @@
+# requirements.txt
+
+# No external dependencies are required for this basic in-memory console application.
+# If using `uv` for environment management, it would be installed globally or via pip.
+# uv

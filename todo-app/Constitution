@@ -1,0 +1,16 @@
+# Constitution File
+
+This file outlines the core principles and guidelines for the development of the Todo In-Memory Python Console App.
+
+## Principles
+1.  **Simplicity:** Prioritize clear, straightforward solutions.
+2.  **Modularity:** Design components to be independent and reusable.
+3.  **Testability:** Ensure code can be easily tested.
+4.  **User-Centric:** Focus on a clear and intuitive user experience for the CLI.
+5.  **Clean Code:** Adhere to Python best practices for readability and maintainability.
+
+## Project Goals
+-   Implement all 5 basic todo functionalities (Add, Delete, Update, View, Mark Complete).
+-   Store tasks in memory.
+-   Provide a robust command-line interface.
+-   Prepare for future phases by maintaining a clean architecture.
